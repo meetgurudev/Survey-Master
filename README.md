@@ -9,7 +9,7 @@ This is a android based application built for extracting the location of the use
       * Location tag (custom name).
       * Location Picture.
 
-*Viewing the pins.
+* Viewing the pins.
   * User can view all the submitted pins by clicking "View submiited locations". They are listed with the same format how it was
     done while uploading.
   * These pins are shown in card view structure.
