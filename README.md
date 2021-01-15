@@ -8,9 +8,16 @@ This is a android based application built for extracting the location of the use
       * Location Coordinates.
       * Location tag (custom name).
       * Location Picture.
-
+      * Existing Cluster requests.
+       * Further, based on the request type, User can
+        * Add the newly fetched cluster to the existing pool.
+        * Identify and Modify the existing clusters in the pool.
+        * Intergrade if the clusters overlapping and update the organizational geospatial pool.    
+    
+      
 * Viewing the pins.
-  * User can view all the submitted pins by clicking "View submiited locations". They are listed with the same format how it was
-    done while uploading.
+  * User can view all the submitted pins by clicking "View submiited locations". 
+  * They are listed with the same format how it was done while uploading.
   * These pins are shown in card view structure.
+  * To get the specific cluster details, on click of card view ,user will be redirected to browser window.
   
